@@ -1,5 +1,12 @@
-# Keter | Forked from billy https://github.com/billythegoat356/Keter
+# Keter
+### Forked from billy https://github.com/billythegoat356/Keter
 Grâce à Keter, votre serveur Discord sera à tout jamais en sécurité…
+
+| | |
+|:-----|:--------:|
+| style   | x |
+| work   |  |
+| fix mp3 delay   |  |
 
 install
 ```bash
