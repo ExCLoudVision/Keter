@@ -1,1 +1,1 @@
-worker: python3 keter.py
+worker: python keter.py
