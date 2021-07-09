@@ -2,8 +2,8 @@ import discord, time
 from discord.ext.commands import Bot
 from src.verif import code_verify, delete
 import asyncio
-
 token = "token"
+
 
 botOpt={"logo": "https://orig00.deviantart.net/5c2f/f/2013/337/6/9/69d144a62410c5b34c8ad53b39804e7d-d6r7x9f.gif",
         "BotName": "Keter",
