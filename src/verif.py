@@ -22,7 +22,7 @@ delet = []
 async def code_verify(channel):
     code = generate_code()
     f = BytesIO()
-    code_file = gTTS(text=code.lower())
+    code_file = gTTS(text=code.lower() lang='fr', slow=True)
     code_file.write_to_fp(f)
     f.seek(0)
     fichier_say = File(f, "captcha.mp3")
