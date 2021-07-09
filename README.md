@@ -6,7 +6,9 @@ Grâce à Keter, votre serveur Discord sera à tout jamais en sécurité…
 |:-----|:--------:|
 | style   | x |
 | work   | x |
-| fix mp3 delay   |  |
+| fix mp3 delay   | x |
+| increase the difficulty if it is a new one on discord |  |
+
 
 install
 ```bash
